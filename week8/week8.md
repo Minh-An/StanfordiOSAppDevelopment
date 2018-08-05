@@ -1,9 +1,9 @@
 ## Week 8's Resources
 
-Lecture 9: [View Controller Lifecycle and Scroll View](https://youtu.be/tLsPoVDXDG8)
+Lecture 15: [Alerts, Notifications, Application Lifecycle](https://youtu.be/K1tmZhuuyt0)
 - [Slides][1]
 
-Lecture 10: [Multithreading and Autolayout](https://youtu.be/kl2bDYiSgoc)
+Lecture 16: [More Segues](https://youtu.be/ke9fzOdg5Pk)
 - [Slides][2]
 
 [1]: 
